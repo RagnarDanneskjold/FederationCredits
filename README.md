@@ -1,8 +1,8 @@
 Federation Credits StarTrek inspired coin that is a clone of CloudCoin.
 
-RPC Port = 12345
+RPC Port = 7014
 
-P2P Port = 12344
+P2P Port = 7013
 
 Block 1 superblock of 1 Million Coins (Used to spead across the StarTrek Universe)
 PoW/PoS 100 Million total coins.
