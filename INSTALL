@@ -1,0 +1,9 @@
+Building federationcredit
+
+See doc/readme-qt.rst for instructions on building federationcredit QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of federationcredit.
+
+See doc/build-*.txt for instructions on building federationcreditd,
+the intended-for-services, no-graphical-interface, reference
+implementation of federationcredit.
